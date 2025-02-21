@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Google Meet Hang Up Button Remover",
+  "version": "1.0",
+  "description": "April fools! Remove the Hang Up button on Google Meet calls.",
+  "content_scripts": [
+    {
+      "matches": ["https://meet.google.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
