@@ -8,7 +8,7 @@ This Chrome extension provides a simple way to hide the "Hang up" button on Goog
 ### 1. Download the Extension:
 
 ```Bash
-git clone https://github.com/jashankish/hang-up
+git clone https://github.com/jashankish/hang-up-extension
 ```
 
 ### 2. Load the Extension in Chrome:
